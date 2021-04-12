@@ -1,2 +1,9 @@
-# PRO-C30-TOWER-SIEGE-2
-In This Project, You Will Have To Practice And Apply What You Have Learned In The Class And Continue Adding More Functionality To The Tower Siege Game.
+
+### Features of Stage 2:
+##### On Space button pressed, player gets a second chance to play
+##### Blocks vanish on coming in contact with my slingshot
+
+
+
+
+
